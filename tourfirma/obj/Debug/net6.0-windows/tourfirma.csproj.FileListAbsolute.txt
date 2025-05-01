@@ -1,0 +1,323 @@
+C:\Users\s0177356\source\repos\tourfirma\tourfirma\bin\Debug\net6.0-windows\tourfirma.exe
+C:\Users\s0177356\source\repos\tourfirma\tourfirma\bin\Debug\net6.0-windows\tourfirma.deps.json
+C:\Users\s0177356\source\repos\tourfirma\tourfirma\bin\Debug\net6.0-windows\tourfirma.runtimeconfig.json
+C:\Users\s0177356\source\repos\tourfirma\tourfirma\bin\Debug\net6.0-windows\tourfirma.dll
+C:\Users\s0177356\source\repos\tourfirma\tourfirma\bin\Debug\net6.0-windows\ref\tourfirma.dll
+C:\Users\s0177356\source\repos\tourfirma\tourfirma\bin\Debug\net6.0-windows\tourfirma.pdb
+C:\Users\s0177356\source\repos\tourfirma\tourfirma\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\s0177356\source\repos\tourfirma\tourfirma\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\s0177356\source\repos\tourfirma\tourfirma\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\s0177356\source\repos\tourfirma\tourfirma\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\s0177356\source\repos\tourfirma\tourfirma\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\s0177356\source\repos\tourfirma\tourfirma\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\s0177356\source\repos\tourfirma\tourfirma\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\s0177356\source\repos\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.csproj.AssemblyReference.cache
+C:\Users\s0177356\source\repos\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.Form1.resources
+C:\Users\s0177356\source\repos\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.csproj.GenerateResource.cache
+C:\Users\s0177356\source\repos\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s0177356\source\repos\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.AssemblyInfoInputs.cache
+C:\Users\s0177356\source\repos\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.AssemblyInfo.cs
+C:\Users\s0177356\source\repos\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.csproj.CoreCompileInputs.cache
+C:\Users\s0177356\source\repos\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.csproj.CopyComplete
+C:\Users\s0177356\source\repos\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.dll
+C:\Users\s0177356\source\repos\tourfirma\tourfirma\obj\Debug\net6.0-windows\ref\tourfirma.dll
+C:\Users\s0177356\source\repos\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.pdb
+C:\Users\s0177356\source\repos\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.genruntimeconfig.cache
+Z:\tourfirma\tourfirma\bin\Debug\net6.0-windows\tourfirma.exe
+Z:\tourfirma\tourfirma\bin\Debug\net6.0-windows\tourfirma.deps.json
+Z:\tourfirma\tourfirma\bin\Debug\net6.0-windows\tourfirma.runtimeconfig.json
+Z:\tourfirma\tourfirma\bin\Debug\net6.0-windows\tourfirma.dll
+Z:\tourfirma\tourfirma\bin\Debug\net6.0-windows\ref\tourfirma.dll
+Z:\tourfirma\tourfirma\bin\Debug\net6.0-windows\tourfirma.pdb
+Z:\tourfirma\tourfirma\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Z:\tourfirma\tourfirma\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+Z:\tourfirma\tourfirma\bin\Debug\net6.0-windows\Npgsql.dll
+Z:\tourfirma\tourfirma\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+Z:\tourfirma\tourfirma\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+Z:\tourfirma\tourfirma\bin\Debug\net6.0-windows\System.Text.Json.dll
+Z:\tourfirma\tourfirma\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+Z:\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.csproj.AssemblyReference.cache
+Z:\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.Form1.resources
+Z:\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.csproj.GenerateResource.cache
+Z:\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.GeneratedMSBuildEditorConfig.editorconfig
+Z:\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.AssemblyInfoInputs.cache
+Z:\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.AssemblyInfo.cs
+Z:\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.csproj.CoreCompileInputs.cache
+Z:\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.csproj.CopyComplete
+Z:\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.dll
+Z:\tourfirma\tourfirma\obj\Debug\net6.0-windows\ref\tourfirma.dll
+Z:\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.pdb
+Z:\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.genruntimeconfig.cache
+Z:\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.Form2.resources
+C:\Users\s0177356\Desktop\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.csproj.AssemblyReference.cache
+C:\Users\s0177356\Desktop\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.Form1.resources
+C:\Users\s0177356\Desktop\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.Form2.resources
+C:\Users\s0177356\Desktop\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.csproj.GenerateResource.cache
+C:\Users\s0177356\Desktop\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s0177356\Desktop\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.AssemblyInfoInputs.cache
+C:\Users\s0177356\Desktop\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.AssemblyInfo.cs
+C:\Users\s0177356\Desktop\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.csproj.CoreCompileInputs.cache
+C:\Users\s0177356\Desktop\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.dll
+C:\Users\s0177356\Desktop\tourfirma\tourfirma\obj\Debug\net6.0-windows\ref\tourfirma.dll
+C:\Users\s0177356\Desktop\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.pdb
+C:\Users\s0177356\Desktop\tourfirma\tourfirma\bin\Debug\net6.0-windows\tourfirma.exe
+C:\Users\s0177356\Desktop\tourfirma\tourfirma\bin\Debug\net6.0-windows\tourfirma.deps.json
+C:\Users\s0177356\Desktop\tourfirma\tourfirma\bin\Debug\net6.0-windows\tourfirma.runtimeconfig.json
+C:\Users\s0177356\Desktop\tourfirma\tourfirma\bin\Debug\net6.0-windows\tourfirma.dll
+C:\Users\s0177356\Desktop\tourfirma\tourfirma\bin\Debug\net6.0-windows\ref\tourfirma.dll
+C:\Users\s0177356\Desktop\tourfirma\tourfirma\bin\Debug\net6.0-windows\tourfirma.pdb
+C:\Users\s0177356\Desktop\tourfirma\tourfirma\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\s0177356\Desktop\tourfirma\tourfirma\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\s0177356\Desktop\tourfirma\tourfirma\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\s0177356\Desktop\tourfirma\tourfirma\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\s0177356\Desktop\tourfirma\tourfirma\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\s0177356\Desktop\tourfirma\tourfirma\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\s0177356\Desktop\tourfirma\tourfirma\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\s0177356\Desktop\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.csproj.CopyComplete
+C:\Users\s0177356\Desktop\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.genruntimeconfig.cache
+C:\Users\Ученик\Desktop\tourfirma\tourfirma\bin\Debug\net6.0-windows\tourfirma.exe
+C:\Users\Ученик\Desktop\tourfirma\tourfirma\bin\Debug\net6.0-windows\tourfirma.deps.json
+C:\Users\Ученик\Desktop\tourfirma\tourfirma\bin\Debug\net6.0-windows\tourfirma.runtimeconfig.json
+C:\Users\Ученик\Desktop\tourfirma\tourfirma\bin\Debug\net6.0-windows\tourfirma.dll
+C:\Users\Ученик\Desktop\tourfirma\tourfirma\bin\Debug\net6.0-windows\tourfirma.pdb
+C:\Users\Ученик\Desktop\tourfirma\tourfirma\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ученик\Desktop\tourfirma\tourfirma\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ученик\Desktop\tourfirma\tourfirma\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\Ученик\Desktop\tourfirma\tourfirma\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ученик\Desktop\tourfirma\tourfirma\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Ученик\Desktop\tourfirma\tourfirma\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Ученик\Desktop\tourfirma\tourfirma\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Ученик\Desktop\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.csproj.AssemblyReference.cache
+C:\Users\Ученик\Desktop\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.Form1.resources
+C:\Users\Ученик\Desktop\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.Form2.resources
+C:\Users\Ученик\Desktop\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.csproj.GenerateResource.cache
+C:\Users\Ученик\Desktop\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ученик\Desktop\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.AssemblyInfoInputs.cache
+C:\Users\Ученик\Desktop\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.AssemblyInfo.cs
+C:\Users\Ученик\Desktop\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.csproj.CoreCompileInputs.cache
+C:\Users\Ученик\Desktop\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.csproj.Up2Date
+C:\Users\Ученик\Desktop\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.dll
+C:\Users\Ученик\Desktop\tourfirma\tourfirma\obj\Debug\net6.0-windows\refint\tourfirma.dll
+C:\Users\Ученик\Desktop\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.pdb
+C:\Users\Ученик\Desktop\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.genruntimeconfig.cache
+C:\Users\Ученик\Desktop\tourfirma\tourfirma\obj\Debug\net6.0-windows\ref\tourfirma.dll
+C:\Users\Ученик\Desktop\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.Form3.resources
+C:\Users\Ученик\Desktop\tourfirma\tourfirma\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Excel.dll
+C:\Users\Ученик\Desktop\tourfirma\tourfirma\bin\Debug\net6.0-windows\ClosedXML.dll
+C:\Users\Ученик\Desktop\tourfirma\tourfirma\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\Ученик\Desktop\tourfirma\tourfirma\bin\Debug\net6.0-windows\ExcelNumberFormat.dll
+C:\Users\Ученик\Desktop\tourfirma — копия (2)\tourfirma\obj\Debug\net6.0-windows\tourfirma.csproj.AssemblyReference.cache
+C:\Users\Ученик\Desktop\tourfirma — копия (2)\tourfirma\obj\Debug\net6.0-windows\TourFirma.Form1.resources
+C:\Users\Ученик\Desktop\tourfirma — копия (2)\tourfirma\obj\Debug\net6.0-windows\tourfirma.Form2.resources
+C:\Users\Ученик\Desktop\tourfirma — копия (2)\tourfirma\obj\Debug\net6.0-windows\tourfirma.Form3.resources
+C:\Users\Ученик\Desktop\tourfirma — копия (2)\tourfirma\obj\Debug\net6.0-windows\tourfirma.csproj.GenerateResource.cache
+C:\Users\Ученик\Desktop\tourfirma — копия (2)\tourfirma\obj\Debug\net6.0-windows\tourfirma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ученик\Desktop\tourfirma — копия (2)\tourfirma\obj\Debug\net6.0-windows\tourfirma.AssemblyInfoInputs.cache
+C:\Users\Ученик\Desktop\tourfirma — копия (2)\tourfirma\obj\Debug\net6.0-windows\tourfirma.AssemblyInfo.cs
+C:\Users\Ученик\Desktop\tourfirma — копия (2)\tourfirma\obj\Debug\net6.0-windows\tourfirma.csproj.CoreCompileInputs.cache
+C:\Users\Ученик\Desktop\tourfirma — копия (2)\tourfirma\obj\Debug\net6.0-windows\tourfirma.dll
+C:\Users\Ученик\Desktop\tourfirma — копия (2)\tourfirma\obj\Debug\net6.0-windows\refint\tourfirma.dll
+C:\Users\Ученик\Desktop\tourfirma — копия (2)\tourfirma\obj\Debug\net6.0-windows\tourfirma.pdb
+C:\Users\Ученик\Desktop\tourfirma — копия (2)\tourfirma\bin\Debug\net6.0-windows\tourfirma.exe
+C:\Users\Ученик\Desktop\tourfirma — копия (2)\tourfirma\bin\Debug\net6.0-windows\tourfirma.deps.json
+C:\Users\Ученик\Desktop\tourfirma — копия (2)\tourfirma\bin\Debug\net6.0-windows\tourfirma.runtimeconfig.json
+C:\Users\Ученик\Desktop\tourfirma — копия (2)\tourfirma\bin\Debug\net6.0-windows\tourfirma.dll
+C:\Users\Ученик\Desktop\tourfirma — копия (2)\tourfirma\bin\Debug\net6.0-windows\tourfirma.pdb
+C:\Users\Ученик\Desktop\tourfirma — копия (2)\tourfirma\bin\Debug\net6.0-windows\ClosedXML.dll
+C:\Users\Ученик\Desktop\tourfirma — копия (2)\tourfirma\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\Ученик\Desktop\tourfirma — копия (2)\tourfirma\bin\Debug\net6.0-windows\ExcelNumberFormat.dll
+C:\Users\Ученик\Desktop\tourfirma — копия (2)\tourfirma\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ученик\Desktop\tourfirma — копия (2)\tourfirma\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ученик\Desktop\tourfirma — копия (2)\tourfirma\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\Ученик\Desktop\tourfirma — копия (2)\tourfirma\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ученик\Desktop\tourfirma — копия (2)\tourfirma\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Ученик\Desktop\tourfirma — копия (2)\tourfirma\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Ученик\Desktop\tourfirma — копия (2)\tourfirma\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Ученик\Desktop\tourfirma — копия (2)\tourfirma\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Excel.dll
+C:\Users\Ученик\Desktop\tourfirma — копия (2)\tourfirma\obj\Debug\net6.0-windows\tourfirma.csproj.Up2Date
+C:\Users\Ученик\Desktop\tourfirma — копия (2)\tourfirma\obj\Debug\net6.0-windows\tourfirma.genruntimeconfig.cache
+C:\Users\Ученик\Desktop\tourfirma — копия (2)\tourfirma\obj\Debug\net6.0-windows\ref\tourfirma.dll
+D:\university\integrDev\alt2\tourfirma\tourfirma\bin\Debug\net6.0-windows\tourfirma.exe
+D:\university\integrDev\alt2\tourfirma\tourfirma\bin\Debug\net6.0-windows\tourfirma.deps.json
+D:\university\integrDev\alt2\tourfirma\tourfirma\bin\Debug\net6.0-windows\tourfirma.runtimeconfig.json
+D:\university\integrDev\alt2\tourfirma\tourfirma\bin\Debug\net6.0-windows\tourfirma.dll
+D:\university\integrDev\alt2\tourfirma\tourfirma\bin\Debug\net6.0-windows\tourfirma.pdb
+D:\university\integrDev\alt2\tourfirma\tourfirma\bin\Debug\net6.0-windows\ClosedXML.dll
+D:\university\integrDev\alt2\tourfirma\tourfirma\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+D:\university\integrDev\alt2\tourfirma\tourfirma\bin\Debug\net6.0-windows\ExcelNumberFormat.dll
+D:\university\integrDev\alt2\tourfirma\tourfirma\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\university\integrDev\alt2\tourfirma\tourfirma\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\university\integrDev\alt2\tourfirma\tourfirma\bin\Debug\net6.0-windows\Npgsql.dll
+D:\university\integrDev\alt2\tourfirma\tourfirma\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\university\integrDev\alt2\tourfirma\tourfirma\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\university\integrDev\alt2\tourfirma\tourfirma\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\university\integrDev\alt2\tourfirma\tourfirma\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\university\integrDev\alt2\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.csproj.AssemblyReference.cache
+D:\university\integrDev\alt2\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.Form1.resources
+D:\university\integrDev\alt2\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.csproj.GenerateResource.cache
+D:\university\integrDev\alt2\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.GeneratedMSBuildEditorConfig.editorconfig
+D:\university\integrDev\alt2\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.AssemblyInfoInputs.cache
+D:\university\integrDev\alt2\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.AssemblyInfo.cs
+D:\university\integrDev\alt2\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.csproj.CoreCompileInputs.cache
+D:\university\integrDev\alt2\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.csproj.Up2Date
+D:\university\integrDev\alt2\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.dll
+D:\university\integrDev\alt2\tourfirma\tourfirma\obj\Debug\net6.0-windows\refint\tourfirma.dll
+D:\university\integrDev\alt2\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.pdb
+D:\university\integrDev\alt2\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.genruntimeconfig.cache
+D:\university\integrDev\alt2\tourfirma\tourfirma\obj\Debug\net6.0-windows\ref\tourfirma.dll
+D:\university\integrDev\alt2\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.UniversalEditForm.resources
+D:\university\integrDev\mainflow\tourfirma\tourfirma\bin\Debug\net6.0-windows\tourfirma.exe
+D:\university\integrDev\mainflow\tourfirma\tourfirma\bin\Debug\net6.0-windows\tourfirma.deps.json
+D:\university\integrDev\mainflow\tourfirma\tourfirma\bin\Debug\net6.0-windows\tourfirma.runtimeconfig.json
+D:\university\integrDev\mainflow\tourfirma\tourfirma\bin\Debug\net6.0-windows\tourfirma.dll
+D:\university\integrDev\mainflow\tourfirma\tourfirma\bin\Debug\net6.0-windows\tourfirma.pdb
+D:\university\integrDev\mainflow\tourfirma\tourfirma\bin\Debug\net6.0-windows\ClosedXML.dll
+D:\university\integrDev\mainflow\tourfirma\tourfirma\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+D:\university\integrDev\mainflow\tourfirma\tourfirma\bin\Debug\net6.0-windows\ExcelNumberFormat.dll
+D:\university\integrDev\mainflow\tourfirma\tourfirma\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\university\integrDev\mainflow\tourfirma\tourfirma\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\university\integrDev\mainflow\tourfirma\tourfirma\bin\Debug\net6.0-windows\Npgsql.dll
+D:\university\integrDev\mainflow\tourfirma\tourfirma\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\university\integrDev\mainflow\tourfirma\tourfirma\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\university\integrDev\mainflow\tourfirma\tourfirma\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\university\integrDev\mainflow\tourfirma\tourfirma\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\university\integrDev\mainflow\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.csproj.AssemblyReference.cache
+D:\university\integrDev\mainflow\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.Form1.resources
+D:\university\integrDev\mainflow\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.UniversalEditForm.resources
+D:\university\integrDev\mainflow\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.csproj.GenerateResource.cache
+D:\university\integrDev\mainflow\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.GeneratedMSBuildEditorConfig.editorconfig
+D:\university\integrDev\mainflow\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.AssemblyInfoInputs.cache
+D:\university\integrDev\mainflow\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.AssemblyInfo.cs
+D:\university\integrDev\mainflow\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.csproj.CoreCompileInputs.cache
+D:\university\integrDev\mainflow\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.csproj.Up2Date
+D:\university\integrDev\mainflow\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.dll
+D:\university\integrDev\mainflow\tourfirma\tourfirma\obj\Debug\net6.0-windows\refint\tourfirma.dll
+D:\university\integrDev\mainflow\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.pdb
+D:\university\integrDev\mainflow\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.genruntimeconfig.cache
+D:\university\integrDev\mainflow\tourfirma\tourfirma\obj\Debug\net6.0-windows\ref\tourfirma.dll
+D:\university\integrDev\mainflow\tourfirma\tourfirma\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\university\integrDev\mainflow\tourfirma\tourfirma\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\university\integrDev\mainflow\tourfirma\tourfirma\bin\Debug\net6.0-windows\System.Windows.Forms.DataVisualization.dll
+D:\university\integrDev\mainflow\tourfirma\tourfirma\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\university\integrDev\mainflow\tourfirma\tourfirma\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\university\integrDev\mainflow\tourfirma\tourfirma\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\university\integrDev\mainflow\tourfirma\tourfirma\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\university\integrDev\mainflow\tourfirma\tourfirma\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\university\integrDev\mainflow\tourfirma\tourfirma\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\university\integrDev\mainflow\tourfirma\tourfirma\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\university\integrDev\mainflow\tourfirma\tourfirma\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\university\integrDev\mainflow\tourfirma\tourfirma\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\university\integrDev\mainflow\tourfirma\tourfirma\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\university\integrDev\mainflow\tourfirma\tourfirma\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\university\integrDev\mainflow\tourfirma\tourfirma\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\university\integrDev\mainflow\tourfirma\tourfirma\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\university\integrDev\mainflow\tourfirma\tourfirma\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\university\integrDev\mainflow\tourfirma\tourfirma\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\university\integrDev\mainflow\tourfirma\tourfirma\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\university\integrDev\mainflow\tourfirma\tourfirma\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\university\integrDev\mainflow\tourfirma\tourfirma\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\liliy\Music\tourfirma\tourfirma\bin\Debug\net6.0-windows\tourfirma.exe
+C:\Users\liliy\Music\tourfirma\tourfirma\bin\Debug\net6.0-windows\tourfirma.deps.json
+C:\Users\liliy\Music\tourfirma\tourfirma\bin\Debug\net6.0-windows\tourfirma.runtimeconfig.json
+C:\Users\liliy\Music\tourfirma\tourfirma\bin\Debug\net6.0-windows\tourfirma.dll
+C:\Users\liliy\Music\tourfirma\tourfirma\bin\Debug\net6.0-windows\tourfirma.pdb
+C:\Users\liliy\Music\tourfirma\tourfirma\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\liliy\Music\tourfirma\tourfirma\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\liliy\Music\tourfirma\tourfirma\bin\Debug\net6.0-windows\ClosedXML.dll
+C:\Users\liliy\Music\tourfirma\tourfirma\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\liliy\Music\tourfirma\tourfirma\bin\Debug\net6.0-windows\ExcelNumberFormat.dll
+C:\Users\liliy\Music\tourfirma\tourfirma\bin\Debug\net6.0-windows\System.Windows.Forms.DataVisualization.dll
+C:\Users\liliy\Music\tourfirma\tourfirma\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\liliy\Music\tourfirma\tourfirma\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\liliy\Music\tourfirma\tourfirma\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\liliy\Music\tourfirma\tourfirma\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\liliy\Music\tourfirma\tourfirma\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\liliy\Music\tourfirma\tourfirma\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\liliy\Music\tourfirma\tourfirma\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\liliy\Music\tourfirma\tourfirma\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\liliy\Music\tourfirma\tourfirma\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\liliy\Music\tourfirma\tourfirma\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\liliy\Music\tourfirma\tourfirma\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\liliy\Music\tourfirma\tourfirma\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\liliy\Music\tourfirma\tourfirma\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\liliy\Music\tourfirma\tourfirma\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\liliy\Music\tourfirma\tourfirma\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\liliy\Music\tourfirma\tourfirma\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\liliy\Music\tourfirma\tourfirma\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\liliy\Music\tourfirma\tourfirma\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\liliy\Music\tourfirma\tourfirma\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\liliy\Music\tourfirma\tourfirma\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\liliy\Music\tourfirma\tourfirma\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\liliy\Music\tourfirma\tourfirma\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\liliy\Music\tourfirma\tourfirma\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\liliy\Music\tourfirma\tourfirma\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\liliy\Music\tourfirma\tourfirma\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\liliy\Music\tourfirma\tourfirma\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Excel.dll
+C:\Users\liliy\Music\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.csproj.AssemblyReference.cache
+C:\Users\liliy\Music\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.UniversalEditForm.resources
+C:\Users\liliy\Music\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.csproj.GenerateResource.cache
+C:\Users\liliy\Music\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liliy\Music\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.AssemblyInfoInputs.cache
+C:\Users\liliy\Music\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.AssemblyInfo.cs
+C:\Users\liliy\Music\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.csproj.CoreCompileInputs.cache
+C:\Users\liliy\Music\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.sourcelink.json
+C:\Users\liliy\Music\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.csproj.Up2Date
+C:\Users\liliy\Music\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.dll
+C:\Users\liliy\Music\tourfirma\tourfirma\obj\Debug\net6.0-windows\refint\tourfirma.dll
+C:\Users\liliy\Music\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.pdb
+C:\Users\liliy\Music\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.genruntimeconfig.cache
+C:\Users\liliy\Music\tourfirma\tourfirma\obj\Debug\net6.0-windows\ref\tourfirma.dll
+C:\Users\liliy\Music\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.Туризм.resources
+C:\Users\liliy\Music\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.Properties.Resources.resources
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\bin\Debug\net6.0-windows\tourfirma.exe
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\bin\Debug\net6.0-windows\tourfirma.deps.json
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\bin\Debug\net6.0-windows\tourfirma.runtimeconfig.json
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\bin\Debug\net6.0-windows\tourfirma.dll
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\bin\Debug\net6.0-windows\tourfirma.pdb
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\bin\Debug\net6.0-windows\ClosedXML.dll
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\bin\Debug\net6.0-windows\ExcelNumberFormat.dll
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\bin\Debug\net6.0-windows\System.Windows.Forms.DataVisualization.dll
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.csproj.AssemblyReference.cache
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.Туризм.resources
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.Properties.Resources.resources
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.UniversalEditForm.resources
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.csproj.GenerateResource.cache
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.AssemblyInfoInputs.cache
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.AssemblyInfo.cs
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.csproj.CoreCompileInputs.cache
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.sourcelink.json
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.csproj.Up2Date
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.dll
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\obj\Debug\net6.0-windows\refint\tourfirma.dll
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.pdb
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\obj\Debug\net6.0-windows\tourfirma.genruntimeconfig.cache
+C:\Users\liliy\OneDrive\Рабочий стол\курсач\tourfirma\tourfirma\obj\Debug\net6.0-windows\ref\tourfirma.dll

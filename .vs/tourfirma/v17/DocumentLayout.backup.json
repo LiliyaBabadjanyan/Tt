@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\liliy\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u0430\u0447\\tourfirma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86F9B8B0-4E1E-4A0C-A4EF-4F2DD5E8B558}|tourfirma\\tourfirma.csproj|c:\\users\\liliy\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u0430\u0447\\tourfirma\\tourfirma\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F9B8B0-4E1E-4A0C-A4EF-4F2DD5E8B558}|tourfirma\\tourfirma.csproj|solutionrelative:tourfirma\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F9B8B0-4E1E-4A0C-A4EF-4F2DD5E8B558}|tourfirma\\tourfirma.csproj|c:\\users\\liliy\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u0430\u0447\\tourfirma\\tourfirma\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{86F9B8B0-4E1E-4A0C-A4EF-4F2DD5E8B558}|tourfirma\\tourfirma.csproj|solutionrelative:tourfirma\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F9B8B0-4E1E-4A0C-A4EF-4F2DD5E8B558}|tourfirma\\tourfirma.csproj|c:\\users\\liliy\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u0430\u0447\\tourfirma\\tourfirma\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F9B8B0-4E1E-4A0C-A4EF-4F2DD5E8B558}|tourfirma\\tourfirma.csproj|solutionrelative:tourfirma\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F9B8B0-4E1E-4A0C-A4EF-4F2DD5E8B558}|tourfirma\\tourfirma.csproj|c:\\users\\liliy\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u0430\u0447\\tourfirma\\tourfirma\\tourfirma.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{86F9B8B0-4E1E-4A0C-A4EF-4F2DD5E8B558}|tourfirma\\tourfirma.csproj|solutionrelative:tourfirma\\tourfirma.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F9B8B0-4E1E-4A0C-A4EF-4F2DD5E8B558}|tourfirma\\tourfirma.csproj|c:\\users\\liliy\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u0430\u0447\\tourfirma\\tourfirma\\universaleditform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F9B8B0-4E1E-4A0C-A4EF-4F2DD5E8B558}|tourfirma\\tourfirma.csproj|solutionrelative:tourfirma\\universaleditform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F9B8B0-4E1E-4A0C-A4EF-4F2DD5E8B558}|tourfirma\\tourfirma.csproj|c:\\users\\liliy\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u0430\u0447\\tourfirma\\tourfirma\\universaleditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F9B8B0-4E1E-4A0C-A4EF-4F2DD5E8B558}|tourfirma\\tourfirma.csproj|solutionrelative:tourfirma\\universaleditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F9B8B0-4E1E-4A0C-A4EF-4F2DD5E8B558}|tourfirma\\tourfirma.csproj|c:\\users\\liliy\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u0430\u0447\\tourfirma\\tourfirma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F9B8B0-4E1E-4A0C-A4EF-4F2DD5E8B558}|tourfirma\\tourfirma.csproj|solutionrelative:tourfirma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F9B8B0-4E1E-4A0C-A4EF-4F2DD5E8B558}|tourfirma\\tourfirma.csproj|C:\\Users\\liliy\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u0430\u0447\\tourfirma\\tourfirma\\universaleditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{86F9B8B0-4E1E-4A0C-A4EF-4F2DD5E8B558}|tourfirma\\tourfirma.csproj|solutionrelative:tourfirma\\universaleditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F9B8B0-4E1E-4A0C-A4EF-4F2DD5E8B558}|tourfirma\\tourfirma.csproj|c:\\users\\liliy\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u0430\u0447\\tourfirma\\tourfirma\\tourfirma.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{86F9B8B0-4E1E-4A0C-A4EF-4F2DD5E8B558}|tourfirma\\tourfirma.csproj|solutionrelative:tourfirma\\tourfirma.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UniversalEditForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\liliy\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u0430\u0447\\tourfirma\\tourfirma\\UniversalEditForm.Designer.cs",
+              "RelativeDocumentMoniker": "tourfirma\\UniversalEditForm.Designer.cs",
+              "ToolTip": "C:\\Users\\liliy\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u0430\u0447\\tourfirma\\tourfirma\\UniversalEditForm.Designer.cs",
+              "RelativeToolTip": "tourfirma\\UniversalEditForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T20:46:18.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\liliy\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u0430\u0447\\tourfirma\\tourfirma\\Form1.cs",
+              "RelativeDocumentMoniker": "tourfirma\\Form1.cs",
+              "ToolTip": "C:\\Users\\liliy\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u0430\u0447\\tourfirma\\tourfirma\\Form1.cs",
+              "RelativeToolTip": "tourfirma\\Form1.cs",
+              "ViewState": "AgIAAGsBAAAAAAAAAAAuwNcCAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:45:51.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "tourfirma",
+              "DocumentMoniker": "C:\\Users\\liliy\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u0430\u0447\\tourfirma\\tourfirma\\tourfirma.csproj",
+              "RelativeDocumentMoniker": "tourfirma\\tourfirma.csproj",
+              "ToolTip": "C:\\Users\\liliy\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u0430\u0447\\tourfirma\\tourfirma\\tourfirma.csproj",
+              "RelativeToolTip": "tourfirma\\tourfirma.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-18T07:36:27.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\liliy\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u0430\u0447\\tourfirma\\tourfirma\\Form1.cs",
+              "RelativeDocumentMoniker": "tourfirma\\Form1.cs",
+              "ToolTip": "C:\\Users\\liliy\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u0430\u0447\\tourfirma\\tourfirma\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "tourfirma\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T11:36:34.978Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tourfirma.csproj",
+              "DocumentMoniker": "C:\\Users\\liliy\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u0430\u0447\\tourfirma\\tourfirma\\tourfirma.csproj",
+              "RelativeDocumentMoniker": "tourfirma\\tourfirma.csproj",
+              "ToolTip": "C:\\Users\\liliy\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u0430\u0447\\tourfirma\\tourfirma\\tourfirma.csproj",
+              "RelativeToolTip": "tourfirma\\tourfirma.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-25T00:42:27.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\liliy\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u0430\u0447\\tourfirma\\tourfirma\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "tourfirma\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\liliy\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u0430\u0447\\tourfirma\\tourfirma\\Form1.Designer.cs",
+              "RelativeToolTip": "tourfirma\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ8BAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T14:47:58.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UniversalEditForm.cs",
+              "DocumentMoniker": "C:\\Users\\liliy\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u0430\u0447\\tourfirma\\tourfirma\\UniversalEditForm.cs",
+              "RelativeDocumentMoniker": "tourfirma\\UniversalEditForm.cs",
+              "ToolTip": "C:\\Users\\liliy\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u0430\u0447\\tourfirma\\tourfirma\\UniversalEditForm.cs",
+              "RelativeToolTip": "tourfirma\\UniversalEditForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T16:21:36.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\liliy\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u0430\u0447\\tourfirma\\tourfirma\\Program.cs",
+              "RelativeDocumentMoniker": "tourfirma\\Program.cs",
+              "ToolTip": "C:\\Users\\liliy\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u0430\u0447\\tourfirma\\tourfirma\\Program.cs",
+              "RelativeToolTip": "tourfirma\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T11:36:34.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UniversalEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\liliy\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u0430\u0447\\tourfirma\\tourfirma\\UniversalEditForm.cs",
+              "RelativeDocumentMoniker": "tourfirma\\UniversalEditForm.cs",
+              "ToolTip": "C:\\Users\\liliy\\Music\\tourfirma\\tourfirma\\UniversalEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\..\\Music\\tourfirma\\tourfirma\\UniversalEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:13:51.775Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
